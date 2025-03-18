@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(167, 202, 141);
+  }
+  
+  h3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    border-style: outset;
+  }
+  p {
+    font-family: lobster;
+    font-size: 20px;
+}
+  a {
+    color: rgb(73, 102, 40);
+  }
+.colorName {
+    color:rgb(255, 117, 67);
+  }
+#colorId {
+color: rgb(179, 115, 38);
+}
+div {
+    margin-left: 400px;
+}
+
